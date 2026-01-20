@@ -144,7 +144,6 @@ Since Tim is part of adm Group we can access logs as well!!
 ```Bash
 tim@ip-10-49-181-198:/var/log$ grep -a -i "pass" auth*
 ```
-![[Pasted image 20260119124248.png]]
 
 After Obtaining Tyler password from logs
 
